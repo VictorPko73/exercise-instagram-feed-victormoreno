@@ -18,7 +18,7 @@ header h1 {
 }
 
 img {
-    width: 400px;
+    width: 300px;
     height: 200px;
 }
 
@@ -29,6 +29,7 @@ div.post img {
 div.post {
     background: white;
     margin-top: 10px;
+    border-radius: 8px;
     
 }
 
@@ -57,6 +58,6 @@ div.post h2, div.post p {
 }
 
 div.container {
-    width: 600px;
+    width: 500px;
     margin: auto;
 }
